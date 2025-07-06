@@ -1,6 +1,6 @@
 # Kelompok Praktikum Pembelajaran Mesin - Kelas C
-1227050027 - Azalia Fathimah Dinah
-1227050030 - Citra Aulia
+1227050027 - Azalia Fathimah Dinah;
+1227050030 - Citra Aulia;
 1227050040 - Dzilan Nazira Zahratunnisa
 
 # SMS Spam Classification
