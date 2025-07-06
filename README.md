@@ -1,4 +1,4 @@
-# Kelompok Praktikum Pembelajaran Mesin - Kelas C
+## Kelompok Praktikum Pembelajaran Mesin - Kelas C
 - 1227050027 - Azalia Fathimah Dinah
 - 1227050030 - Citra Aulia
 - 1227050040 - Dzilan Nazira Zahratunnisa
@@ -25,6 +25,11 @@ Distribusi:
 - Ham (label 0): 4518  
 - Spam (label 1): 653
 
+## Link Notebook & Hasil Model
+- decission tree: https://www.kaggle.com/code/citrlia/decissiontree 
+- naive bayes: https://www.kaggle.com/code/dzilann/naive-bayes-spam 
+- logistic regression: https://colab.research.google.com/drive/1QU7RxH4mrxpxw85-B353QK5zAspEovnR?usp=sharing
+
 ## Hasil Evaluasi
 
 | Model                 |Akurasi | Precision | Recall | F1-Score | AUC   |
@@ -39,8 +44,3 @@ Distribusi:
 - scikit-learn
 - seaborn
 - matplotlib
-
-## Link Notebook & Hasil Model
-- decission tree: https://www.kaggle.com/code/citrlia/decissiontree 
-- naive bayes: https://www.kaggle.com/code/dzilann/naive-bayes-spam 
-- logistic regression: https://colab.research.google.com/drive/1QU7RxH4mrxpxw85-B353QK5zAspEovnR?usp=sharing
