@@ -8,11 +8,11 @@ Proyek ini merupakan implementasi berbagai model Machine Learning untuk mengklas
 
 ## Deskripsi
 Kami membandingkan performa 3 model berbeda:
-- Naive Bayes (Scikit-Learn & From Scratch)
+- Naive Bayes
 - Decision Tree
 - Logistic Regression
 
-Evaluasi model menggunakan metrik:
+Evaluasi model menggunakan metrik sebagai berikut:
 - Akurasi
 - Precision, Recall, F1-Score
 - AUC
