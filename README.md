@@ -1,4 +1,4 @@
-## Kelompok Praktikum Pembelajaran Mesin - Kelas C
+## UAS Kelompok Praktikum Pembelajaran Mesin - Kelas C
 - 1227050027 - Azalia Fathimah Dinah
 - 1227050030 - Citra Aulia
 - 1227050040 - Dzilan Nazira Zahratunnisa
@@ -30,8 +30,8 @@ Distribusi:
 | Model                 |Akurasi | Precision | Recall | F1-Score | AUC   |
 |-----------------------|--------|-----------|--------|----------|-------|
 | Decision Tree         | 95.46% | 0.85      | 0.77   | 0.81     | 0.87  |
-| Naive Bayes           | 96.32% | 1         | 0.72   | 0.83     | 0.97  |
-| Logistic Regression   | 97.04% | 0.98      | 0.81   | 0.89     | 0.91  |
+| Naive Bayes           | 96.32% | 1.00      | 0.72   | 0.83     | 0.97  |
+| Logistic Regression   | 97.13% | 0.99      | 0.81   | 0.89     | 0.98  |
 
 ## Dependencies
 - Python 3.x
@@ -42,5 +42,5 @@ Distribusi:
 
 ## Link Notebook & Hasil Model
 - decission tree: https://www.kaggle.com/code/citrlia/decissiontree 
-- naive bayes: https://www.kaggle.com/code/dzilann/naive-bayes-spam 
+- naive bayes: https://www.kaggle.com/code/dzilann/naive-bayes-spam-sms
 - logistic regression: https://colab.research.google.com/drive/1QU7RxH4mrxpxw85-B353QK5zAspEovnR?usp=sharing
