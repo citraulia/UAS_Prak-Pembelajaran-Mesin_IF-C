@@ -1,7 +1,7 @@
 # Kelompok Praktikum Pembelajaran Mesin - Kelas C
-1227050027 - Azalia Fathimah Dinah;
-1227050030 - Citra Aulia;
-1227050040 - Dzilan Nazira Zahratunnisa
+- 1227050027 - Azalia Fathimah Dinah
+- 1227050030 - Citra Aulia
+- 1227050040 - Dzilan Nazira Zahratunnisa
 
 # SMS Spam Classification
 Proyek ini merupakan implementasi berbagai model Machine Learning untuk mengklasifikasikan SMS sebagai **Spam** atau **Ham** (bukan spam). Dataset yang digunakan berasal dari Kaggle: *SMS Spam Collection - A More Diverse Dataset* dan dapat diakses melalui link berikut: https://www.kaggle.com/datasets/thedevastator/sms-spam-collection-a-more-diverse-dataset 
@@ -41,6 +41,6 @@ Distribusi:
 - matplotlib
 
 ## Link Notebook & Hasil Model
-decission tree: https://www.kaggle.com/code/citrlia/decissiontree 
-naive bayes: https://www.kaggle.com/code/dzilann/naive-bayes-spam 
-logistic regression: https://colab.research.google.com/drive/1QU7RxH4mrxpxw85-B353QK5zAspEovnR?usp=sharing
+- decission tree: https://www.kaggle.com/code/citrlia/decissiontree 
+- naive bayes: https://www.kaggle.com/code/dzilann/naive-bayes-spam 
+- logistic regression: https://colab.research.google.com/drive/1QU7RxH4mrxpxw85-B353QK5zAspEovnR?usp=sharing
